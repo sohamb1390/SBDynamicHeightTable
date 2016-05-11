@@ -3,7 +3,7 @@
 //  SBDynamicHeightTable
 //
 //  Created by Soham on 06/05/16.
-//  Copyright © 2016 TCS. All rights reserved.
+//  Copyright © 2016 Soham Bhattacharjee. All rights reserved.
 //
 
 import UIKit
